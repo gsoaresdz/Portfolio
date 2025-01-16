@@ -4,13 +4,13 @@
 
 <p align="center">
 
-<img alt="GitHub Top Language Badge" src="https://img.shields.io/github/languages/top/wilsonsouto/portfolio?&color=56BEB8"/>
+<img alt="GitHub Top Language Badge" src="https://img.shields.io/github/languages/top/gsoaresdz/portfolio?&color=56BEB8"/>
 
-<img alt="GitHub Language Count Badge" src="https://img.shields.io/github/languages/count/wilsonsouto/portfolio?&color=56BEB8"/>
+<img alt="GitHub Language Count Badge" src="https://img.shields.io/github/languages/count/gsoaresdz/portfolio?&color=56BEB8"/>
 
-<img alt="GitHub Repository Size Badge" src="https://img.shields.io/github/repo-size/wilsonsouto/portfolio?&color=56BEB8"/>
+<img alt="GitHub Repository Size Badge" src="https://img.shields.io/github/repo-size/gsoaresdz/portfolio?&color=56BEB8"/>
 
-<img alt="Github License Badge" src="https://img.shields.io/github/license/wilsonsouto/portfolio?color=56BEB8">
+<img alt="Github License Badge" src="https://img.shields.io/github/license/gsoaresdz/portfolio?color=56BEB8">
 
 </p>
 
@@ -55,7 +55,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/wilsonsouto/portfolio
+$ git clone https://github.com/gsoaresdz/portfolio.git
 
 # Access
 $ cd portfolio
@@ -73,7 +73,7 @@ $ npm start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
-Made with :heart: by <a href="https://github.com/wilsonsouto" target="_blank">wilsonsouto</a>
+Made with :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
 
 &#xa0;
 
