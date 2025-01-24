@@ -21,7 +21,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/wilsonsouto" target="_blank">Author</a>
+  <a href="https://github.com/gsoaresdz" target="_blank">Author</a>
 </p>
 
 <br>
